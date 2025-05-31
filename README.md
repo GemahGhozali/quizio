@@ -1,0 +1,2 @@
+# SIAP (Sistem Informasi Aduan Pendidikan)
+SIAP adalah aplikasi berbasis web yang dirancang sebagai sarana komunikasi resmi antara pihak sekolah dan dinas pendidikan. Aplikasi ini bertujuan untuk mempermudah sekolah dalam menyampaikan berbagai keluhan, permasalahan, atau kebutuhan secara sistematis dan terdokumentasi. Dengan SIAP, setiap laporan dari sekolah dapat dipantau, ditindaklanjuti, dan diberikan umpan balik oleh pihak dinas pendidikan secara efisien. Aplikasi ini juga mendukung transparansi dan akuntabilitas dalam penanganan masalah pendidikan di lapangan.
